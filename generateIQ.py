@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 from sun_phy import Mr_fsk_modulator, Mr_ofdm_modulator
 import numpy as np
 from subprocess import run
